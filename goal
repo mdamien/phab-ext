@@ -1,0 +1,13 @@
+GOAL
+===
+mark all as read in one click
+synchronize all tabs notification count
+
+
+
+when to start/stop ? do I force one phabricator tab to be open ? (would be a good option)
+use the socket/notifcation of phabricator
+do not duplicate desktop notif
+   wait if there's already a deduplication of desktop notif, why can't i do the same thing with normal notifs ?
+
+having it on a tab is less intrusive, I can also just silence all the other tabs
